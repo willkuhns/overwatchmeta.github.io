@@ -77,7 +77,7 @@ h5{
     color:#FCBD49;
 }
 .character{
-    border:2px black solid;
+    border:5px #FCBD49 solid;
     margin:5px auto;
 }
 nav{
@@ -171,6 +171,10 @@ Flip stuff
  text-align: center;
 color:#FAA02E;
  font-size: 16px;
+}
+b{
+color:#FCBD49;
+
 }
 .footer{
 	text-align:center;
