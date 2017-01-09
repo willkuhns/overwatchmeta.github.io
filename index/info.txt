@@ -1,0 +1,181 @@
+Maps
+    Hanamura
+        Mei+1(Defense point 1 and 2)
+    Temple of Anubis
+        Junkrat+1(Defense point 1)
+        Mei+1(Defense point 2)
+    Volskaya Industries
+        Mei+1(Defense point 2)
+    Dorado
+        Junkrat+1(Defense point 1)
+        Mei+1(Defense point 1)
+    Route 66
+    Watchpoint: Gibraltar
+    Hollywood
+    King's Row
+    Numbani
+    Eichenwalde
+        Mei+1(Defense point 1)
+        
+    TIER LIST FOR ATTACK/DEFENCE MAPS
+        Defense
+            Tier S
+                Soldier:76, Symmetra, Roadhog, Reinhardt, Ana
+            Tier A
+                Torbjorn, Mei, McCree, D.Va, Zarya, Lucio, Mercy, Zenyatta
+            Tier B
+                Genji, Junkrat, Hanzo, Winston, Widowmaker
+            Tier C
+                Pharah, Reaper, Bastion
+            Tier D
+                Tracer, Sombra
+                
+        Attack
+            Tier S
+                Soldier:76, Roadhog, Reinhardt, Ana
+            Tier A
+                Tracer, Genji, D.Va, Zarya, Winston, Lucio
+            Tier B
+                McCree,  Hanzo, Mercy, Zenyatta, Mei
+            Tier C
+                Symmetra, Pharah, Reaper, Sombra, Widowmaker, Junkrat
+            Tier D
+                Torbjorn, Bastion
+                
+    
+    Ilios
+        Lighthouse
+        Ruins
+        Well
+    Lijiang Tower
+        Control Center
+        Garden
+        Night Market
+    Nepal
+        Sanctum
+        Shrine
+        Village
+    Oasis(WIP)
+    
+    TIER LIST FOR KOTH/CONTROL MAPS
+        Tier S
+            Soldier:76, D.Va, Reinhardt, Ana, Lucio
+        Tier A
+            Genji, McCree, Tracer, Roadhog, Zarya, Winston, Zenyatta
+        Tier B
+            Reaper, Pharah, Hanzo, Mei, Mercy, Symmetra
+        Tier C
+            Bastion, Junkrat, Widowmaker
+        Tier D
+            Sombra, Torbjorn
+    
+
+Heros
+    DPS
+        Genji
+            Pro
+                Highmoblity
+                high-burst potetional mid to close range
+                does well against low health targets
+            Con
+                hard time killing tanks 
+                can be focused out easily 
+                
+        McCree
+            Pro
+                Highest average DPS
+                big threat close range
+                Hugh headshot damage
+                stun/fan is still good
+            Con
+                heavy damage fall off at range
+                Need to be able to aim
+                
+        Pharah
+            Pro
+                Can two shot most heros 
+                very strong on several koth maps
+                No damage falloff 
+            Con
+                Does Poorly against hitscan charactters
+                (note pharah at diamond and lower is much move effective, especially when paired with a mercy)
+        Reaper
+            Pro
+                High damage close range damage
+                does well against tanks
+                gammechanging ult when paire with nano(and lucio speed boost)
+            Con
+               Only effective at moderetly close ranges
+               
+        Soldier:76
+            Pro
+                Low damage falloff
+                high burst at all ranges
+                high moblity
+                aoe heal
+                
+            Con
+                ???????
+        Tracer
+            Pro
+                high mobilty
+                high close to mid range damage
+                fast charging ult
+                small character model(hard to hit)
+                
+            Con
+                Weak damage at long range
+                low health pool
+                
+        Bastion
+            Pro
+                high damage
+            Con
+                immoble
+                large character model(easier to hit)
+                Needs to be protecteced to be use full
+    Flex/Utility
+        Sombra
+            Pro 
+                Strong ult combo poteintional
+                health pack control + health pack cd reduction
+                High moblity
+                
+            Con
+                weak damage at mid to long distances
+                
+                
+        Hanzo
+        Junkrat
+        Mei 
+        Torbjorn
+            
+        Widowmaker
+            walls quick to charge 
+            can oneshot targets
+            longest range in game with nofall off
+            does poorly verus shield comps 
+            hard to play
+        Symmetra    
+            Highest winrate
+    Tanks
+        D.Va
+        Reinhardt
+        Roadhog
+        Winston
+            strong
+        Zarya
+            strong tank
+    Supports
+        Ana
+            crazy healing and cc
+        Lucio
+            speed boost
+        Mercy
+            huge rez is huge
+            
+        Zenyatta
+            Strong on koth, counters roadhog and pharah/mercy combo well, 
+            
+soldier 
+reinhardt

@@ -1,0 +1,180 @@
+/* 
+Colors
+    dark: #060606
+    lighter-dark: #2F2526
+    mid: #584F4A
+    orange: #FAA02E
+    yellow: #FCBD49
+*/
+@font-face { font-family: "Overwatch"; src: url("http://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff") format('woff'); }
+body{
+    background: url('../imgs/background.jpg');
+  
+  z-index: 1;
+  opacity: 0.8;
+}
+*{
+    font-family: sans-serif,"Arial";
+}
+.header{
+   
+    border:5px #2F2526 solid;
+
+    display:flex;
+    flex-wrap:wrap;
+    height:100px;
+    align-items:center;
+}
+.tier{
+    opacity: 1;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap:wrap;
+    flex-direction:column;
+    justify-content: space-around;
+    border:black solid 5px;
+    margin-top:25px;
+      margin-bottom:25px;
+      padding-bottom: 30px;
+       background-color:#584F4A;
+}
+.tier h1{
+    text-decoration: underline;
+}
+.tier-box{
+    display:flex;
+    text-align: center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
+ h1{
+    text-align: center;
+    font-size: 300%;
+    color:#FCBD49;
+    font-family: sans-serif, "Arial";
+}
+ h2{
+    text-align: center;
+    font-size: 300%;
+    color:#FCBD49;
+    font-family: sans-serif, "Arial";
+}
+ h3{
+    text-align: center;
+    font-size: 300%;
+    color:#FCBD49;
+    font-family: sans-serif, "Arial";
+}
+h4{
+        text-align: center;
+    font-size: 200%;
+    color:#FCBD49;
+    font-family: sans-serif, "Arial";
+}
+h5{
+    font-style: oblique;
+    color:#FCBD49;
+}
+.character{
+    border:2px black solid;
+    margin:5px auto;
+}
+nav{
+    width:100%;
+    text-align: center;
+   
+}
+a{
+     text-decoration: none;
+     color:#FAA02E;
+}
+.header-item{
+ 
+    border:3px orange solid;
+    padding:2%;
+	margin:auto;
+    background-color: #584F4A;
+    text-align: center;
+}
+
+.main{
+
+    border:1px black solid;
+}
+img{
+    width:100px;
+    height:150px;
+    padding:15%;
+}
+table{
+    margin: auto;
+    text-align: center;
+    border:1px black solid;
+}
+tr,th,td{
+    border:1px black solid;
+    font-style: oblique;
+    color:#FCBD49;
+}
+/*
+Flip stuff
+*/
+.character-container {
+	perspective: 1000px;
+	border:2px black solid;
+    margin:5px auto;
+}
+	/* flip the pane when hovered */
+	.character-container:hover .flipper, .character-container.hover .flipper {
+		transform: rotateY(180deg);
+	
+	}
+
+.character-container, .character-front, .character-back {
+	width: 180px;
+	height: 250px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.character-front, .character-back {
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.character-front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.character-back {
+	transform: rotateY(180deg);
+}
+#ana img{
+    width:40%;
+}
+.Pro-Con-List{
+ text-align: center;
+color:#FAA02E;
+ font-size: 16px;
+}
+.footer{
+	text-align:center;
+	background-color:#060606;
+	color:#FCBD49;
+	padding:20px;
+}
